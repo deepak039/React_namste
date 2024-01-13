@@ -1,0 +1,29 @@
+{
+  "name": "react_namste",
+  "version": "1.0.0",
+  "description": "react",
+  
+  "scripts": {
+    "test": "zest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak039/React_namste.git"
+  },
+  "author": "Deepak Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak039/React_namste/issues"
+  },
+  "homepage": "https://github.com/deepak039/React_namste#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "base-x": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+  
+}
